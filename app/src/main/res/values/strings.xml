@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Joburg Tour Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="top_attraction">Top Attractions</string>
+    <string name="parks">Parks</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="Museums">Museums</string>
+</resources>
