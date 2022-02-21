@@ -39,7 +39,8 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             android:gravity="top"
-            android:textColor="#000000"
+            android:textColor="#0000FF"
+            android:onClick="onClick"
             android:textSize="18sp" />
 
 
